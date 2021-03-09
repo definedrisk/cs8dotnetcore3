@@ -25,5 +25,7 @@
 			"path": "NorthwindML"
 		}
 	],
-	"settings": {}
+  "settings": {
+    "omnisharp.autoStart": false
+  }
 }
